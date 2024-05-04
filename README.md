@@ -56,19 +56,14 @@ Kết quả:
   - danh sách 1   
   - danh sách 2  
 
-
-|STT    | Tên linh kiện | Số lượng |  
-|:----|:---------------|:----------|        
+# Tạo bảng Table   
+## 1. Dùng tool trên web 
+- https://tablesgenerator.com/markdown_tables
+## 2. Làm thủ công  
  
-| STT | Tên linh kiện | Số lượng |
-|-----|---------------|----------|
-| 1   | Vietduino UNO | 1        |
-| 2   | MKE-DS18B20   | 1        |
-| 2   | MKE-Relay     | 1        |    
-|  
 
 | **STT** | **Tên linh kiện** | **Số lượng** |
-|:-------:|:-----------------:|:------------:|
-|  **1**  | **Vietduino UNO** |     **1**    |
-|  **2**  | **MKE-DS18B20**   |     **1**    |
-|  **2**  | **MKE-Relay**     |     **1**    |
+|:-------:|:-----------------|:------------|
+|    1    | Vietduino UNO           1      |
+|    2    | MKE-DS18B20       |       1      |
+|    2    | MKE-Relay         |       1      |
