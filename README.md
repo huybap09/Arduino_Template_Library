@@ -62,8 +62,34 @@ Kết quả:
 ## 2. Làm thủ công  
  
 
-| **STT** | **Tên linh kiện** | **Số lượng** |
-|:-------:|:-----------------|:------------|
-|    1    | Vietduino UNO           1      |
-|    2    | MKE-DS18B20       |       1      |
-|    2    | MKE-Relay         |       1      |
+| **STT** | **Tên linh kiện** | **Số lượng** |
+| :-----: | :---------------: | :----------: |
+|    1    |   Vietduino UNO   |      1       |
+|    2    |    MKE-DS18B20    |      1       |
+|    2    |     MKE-Relay     |      1       |
+# Code style  
+- cú pháp:  tùy theo mỗi ngôn ngữ mà chọn
+> \```php  
+> \```C++  
+> \```C   
+> \ ```C++ 
+
+***Ví dụ:***
+>\```C++  
+// hello đồ ngốc  
+void main()  
+{}  
+\```  
+\* dấu ``` ở cuối đoạn để kết thúc
+
+
+ **Kết quả**  
+
+```C++  
+
+//hello đồ ngốc
+void main()  
+{}
+```  
+# Tiep theo
+ 
